@@ -1,0 +1,72 @@
+body {
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+ul {
+  list-style: none;
+  float: right;
+}
+
+li{
+  float: left;
+  margin: 10px;
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header :hover {
+  opacity: 1;
+
+}
+
+.header-logo {
+padding: 20px;
+font-size: 36px;
+float: left;
+}
+
+.top-wrapper {/*url変更しました*/
+  background-image: url(../import/notebook-336634__340.webp);
+  background-size: cover;
+  opacity: 0.5;
+}
+
+caption {
+  float: left;
+  font-size: 20px;
+  margin: 15px;
+  border-bottom: 2px solid black;
+}
+
+table {
+  font-size: 20px;
+  margin: 20px;
+  float: left;
+}
+
+table th {
+  padding: 30px: 30px;
+}
+
+table td {
+  padding: 30px 30px;
+}
+th, td {
+  border: double 2px #2196f3;
+}
+
+.name{
+	font-size:30px;
+	text-decoration: underline;
+	font-weight: bolder;
+	text-align: center
+}
+
+.content{
+	font-size:25px;
+	font-weight: bolder;
+}
