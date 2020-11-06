@@ -1,5 +1,5 @@
 <?php
-/*
+/*ボツ
 	class Subject{
 		private $name;	//科目名
 		private $period;	//時限数
